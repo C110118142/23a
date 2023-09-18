@@ -9,6 +9,11 @@
 - [ ] 3rd thing
 
 ```python
-s="Python systax hightlight"
+s="Python systax hightlighting"
 print(s)
+```
+
+```js
+var s = "JavaScript systax hightlighting"
+alert(s)
 ```
