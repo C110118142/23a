@@ -14,6 +14,6 @@ print(s)
 ```
 
 ```js
-var s = "JavaScript systax hightlighting"
+var s = "JavaScript systax hightlighting";
 alert(s)
 ```
