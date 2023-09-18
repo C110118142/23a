@@ -7,3 +7,8 @@
 - [x] To do list
 - [ ] 2nd thing
 - [ ] 3rd thing
+
+```python
+s="Python systax hightlight"
+print s
+```
