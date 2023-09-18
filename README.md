@@ -17,7 +17,8 @@ print(s)
 var s = "JavaScript systax hightlighting";
 alert(s)
 ```
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| Table | Are | Cool |
+| --- | --- | --- |
+| `col3 is` | right-aligned | $1600 |
+| `col2 is` | centered | $12 |
+| `zebra stripes` | are neat | $1 |
