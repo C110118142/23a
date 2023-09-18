@@ -4,6 +4,4 @@
 #### C110118142 劉偉晧
 ##### C110118142 劉偉晧
 ![NKUST](nkust.png)
-
--[] To do list
--[] 2nd things
+- [] To do list
