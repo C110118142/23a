@@ -10,5 +10,5 @@
 
 ```python
 s="Python systax hightlight"
-print s
+print(s)
 ```
