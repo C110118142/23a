@@ -27,3 +27,10 @@ alert(s)
 | --- | --- | --- |
 | *Still* | `renders` | **nicely** |
 | 1 | 2 | 3 |
+
+| Left-Aligned | Center-Aligned | Right-Aligned |
+| :----------- | :------------: | -----: |
+| `col3 is` | some wordy text | $1600 |
+| `col2 is` | centered | $12 |
+| `zebra stripes` | are neat | $1 |
+| test | 測試 | $3333 |
